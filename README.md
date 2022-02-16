@@ -19,11 +19,9 @@
 
   😤 Sou um cara bem neurótico com minhas responsabilidades 🤯
 
-  🤔 Gosto de estudar só aquilo que tenho interesse...
+  🤔 Gosto de estudar só aquilo que tenho interesse... ainda bem que programação é uma delas kkkk 😅
 
-  😅 (ainda bem que programação é uma delas kkkk)
-
-  🎮 Amo jogar video game, principalmente RPG 
+  🎮 Amo jogar video game, principalmente RPG 💖
   
 
 <h3> 
