@@ -1,7 +1,9 @@
 <h1> 
-  Hello World  
+  Hello World
   <img height = "40px" src = "https://user-images.githubusercontent.com/92947069/154322683-0f279722-2f17-458c-aa71-fa15b23dfb33.gif" > 
 </h1> 
+
+<br>
 
 <img align = "right" src = "https://user-images.githubusercontent.com/92947069/154335053-22a28e51-b6a5-4c86-97ff-a39511b37672.gif">
 
@@ -11,18 +13,18 @@
 </h3>
 
 
-  💻 Atualmente me aperfeiçoando em React
+  💻 Atualmente me aperfeiçoando em React 📚
 
-  🥰 Amo arte, pintura, e design no geral
+  🥰 Amo arte, pintura, e design no geral 🤩
 
-  😤 Sou um cara bem neurótico com minhas responsabilidades
+  😤 Sou um cara bem neurótico com minhas responsabilidades 🤯
 
-  😅 Gosto de estudar só aquilo que tenho interesse...
+  🤔 Gosto de estudar só aquilo que tenho interesse...
 
-  (ainda bem que programação é uma delas kkkk)
+  😅 (ainda bem que programação é uma delas kkkk)
 
-  🎮 Amo jogar video game, principalmente RPG
-  </div>
+  🎮 Amo jogar video game, principalmente RPG 
+  
 
 <h3> 
   Tecnologias 
