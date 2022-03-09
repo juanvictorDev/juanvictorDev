@@ -5,12 +5,13 @@
 
 <br>
 
-<img align = "right" src = "https://user-images.githubusercontent.com/92947069/154335053-22a28e51-b6a5-4c86-97ff-a39511b37672.gif">
+<img align = "right" width = "450px"  src = "https://user-images.githubusercontent.com/92947069/154335053-22a28e51-b6a5-4c86-97ff-a39511b37672.gif">
 
 <h3>
   Sobre
   <img  height = "45px" src = "https://user-images.githubusercontent.com/92947069/154297359-5dce64e9-28cf-4ca7-a2ce-5214bd4f61f2.gif">
 </h3>
+<hr/>
 
 
   💻 Atualmente me aperfeiçoando em React 📚
@@ -22,6 +23,7 @@
   🤔 Gosto de estudar só aquilo que tenho interesse... ainda bem que programação é uma delas kkkk 😅
 
   🎮 Amo jogar video game, principalmente RPG 💖
+  <hr/>
   
 
 <h3> 
@@ -32,8 +34,6 @@
 <img  height = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img  height = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img  height = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img  height = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<br>
-<br>
 <br>
 
 <div align = "center">
