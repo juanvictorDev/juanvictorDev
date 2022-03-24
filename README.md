@@ -18,7 +18,7 @@
 
   🥰 Amo arte, pintura, e design no geral 🤩
 
-  😤 Sou um cara bem neurótico com minhas responsabilidades 🤯
+  😤 Sou um cara bem neurótico com minhas responsabilidades, levo muito a sério 🤯
 
   🤔 Gosto de estudar só aquilo que tenho interesse... ainda bem que programação é uma delas kkkk 😅
 
