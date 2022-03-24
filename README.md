@@ -11,20 +11,21 @@
   Sobre
   <img  height = "45px" src = "https://user-images.githubusercontent.com/92947069/154297359-5dce64e9-28cf-4ca7-a2ce-5214bd4f61f2.gif">
 </h3>
-<hr/>
 
+<hr/>
 
   💻 Atualmente me aperfeiçoando em React 📚
 
   🥰 Amo arte, pintura, e design no geral 🤩
 
-  😤 Sou um cara bem neurótico com minhas responsabilidades, levo muito a sério 🤯
+  😤 Sou um cara bem neurótico com as minhas <br> responsabilidades, levo muito a sério 🤯
 
-  🤔 Gosto de estudar só aquilo que tenho interesse... ainda bem que programação é uma delas kkkk 😅
+  🤔 Gosto de estudar só aquilo que tenho interesse...<br> ainda bem que programação é uma delas kkkk 😅
 
   🎮 Amo jogar video game, principalmente RPG 💖
-  <hr/>
+
   
+<hr/>
 
 <h3> 
   Tecnologias 
