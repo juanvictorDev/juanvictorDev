@@ -14,7 +14,7 @@
 
 <hr/>
 
-  💻 Atualmente me aperfeiçoando em React 📚
+  💻 Atualmente me aperfeiçoando em React e Next📚
 
   🥰 Amo arte, pintura, e design no geral 🤩
 
@@ -32,8 +32,10 @@
   <img height = "55px" src = "https://user-images.githubusercontent.com/92947069/154326678-9cfb0fd3-7671-4c4f-98a1-640f7c27c714.gif" >
 </h3>
 
-<img  height = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img  height = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img  height = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img  height = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img  height = "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img  height = "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img  height = "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+<img  height = "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+<img  height = "50px" src="https://user-images.githubusercontent.com/92947069/165017613-f021ea8d-baf6-4265-816f-bd94be901d1c.png" />
 
 <br>
 
