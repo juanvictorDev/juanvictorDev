@@ -45,8 +45,7 @@
 
 <div align = "center">
 
-![Juan Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=juanvictorDev&show_icons=true&theme=tokyonight) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanvictorDev&layout=compact&theme=tokyonight)](https://github.com/juanvictorDev/github-readme-stats)
+![Juan Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=juanvictorDev&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanvictorDev&layout=compact&theme=tokyonight)](https://github.com/juanvictorDev/github-readme-stats)
 
 </div>
 
