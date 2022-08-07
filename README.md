@@ -1,9 +1,8 @@
-<h1 align="center"> 
-  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183304303-738167a3-3f0c-4049-a1a7-46264ecffefc.png" > 
-  <img height = "100px" src = "https://user-images.githubusercontent.com/92947069/154322683-0f279722-2f17-458c-aa71-fa15b23dfb33.gif" > 
-</h1> 
+<div align = "center">
+  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
+</div>
 
-<br>
+<br><br>
 
   <img align = "right" width = "450px"  src = "https://user-images.githubusercontent.com/92947069/154335053-22a28e51-b6a5-4c86-97ff-a39511b37672.gif">
 
