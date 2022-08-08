@@ -40,12 +40,10 @@
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />               
 </div>
 
-<hr>
+<br><br>
 
-<div align = "center">
-
-![Juan Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=juanvictorDev&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanvictorDev&layout=compact&theme=tokyonight)](https://github.com/juanvictorDev/github-readme-stats)
-
+<div align="center">
+  <a href="https://github.com/juanvictorDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanvictorDev&show_icons=true&theme=tokyonight"/> &nbsp
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvictorDev&layout=compact&theme=tokyonight"/>
 </div>
-
-
