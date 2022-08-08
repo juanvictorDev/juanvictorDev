@@ -44,6 +44,6 @@
 
 <div align="center">
   <a href="https://github.com/juanvictorDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanvictorDev&show_icons=true&theme=tokyonight"/> &nbsp
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvictorDev&layout=compact&theme=tokyonight"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=juanvictorDev&show_icons=true&theme=tokyonight"/> 
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvictorDev&layout=compact&theme=tokyonight"/>
 </div>
