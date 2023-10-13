@@ -20,8 +20,6 @@
   🤔 Gosto de estudar só aquilo que tenho interesse...<br> ainda bem que programação é uma delas kkkk 😅
 
   🎮 Amo jogar video game, principalmente RPG 💖
-
-  <br>
   
   <img height = "100px" src = "https://user-images.githubusercontent.com/92947069/183309444-40054815-7603-4409-b613-603095a0e7d2.gif" >
   
