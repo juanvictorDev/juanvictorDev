@@ -10,7 +10,7 @@
   <img height = "100px" src="https://user-images.githubusercontent.com/92947069/183308602-5b5810ac-0990-45e6-b448-043c239db400.gif"/>
 
   
-  💻 Atualmente me aperfeiçoando em Jva e Spring📚
+  💻 Atualmente me aperfeiçoando em Java e Spring 📚
 
   🥰 Amo arte, pintura, e design no geral 🤩
 
