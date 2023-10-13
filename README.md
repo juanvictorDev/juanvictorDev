@@ -9,8 +9,8 @@
 
   <img height = "100px" src="https://user-images.githubusercontent.com/92947069/183308602-5b5810ac-0990-45e6-b448-043c239db400.gif"/>
 
-  <hr>
-  💻 Atualmente me aperfeiçoando em React e Next📚
+  
+  💻 Atualmente me aperfeiçoando em Jva e Spring📚
 
   🥰 Amo arte, pintura, e design no geral 🤩
 
@@ -20,13 +20,13 @@
 
   🎮 Amo jogar video game, principalmente RPG 💖
  
-  <hr>
+  <br>
   
   <img height = "100px" src = "https://user-images.githubusercontent.com/92947069/183309444-40054815-7603-4409-b613-603095a0e7d2.gif" >
   
 <div>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,mysql,mongodb,jest,git,sass,styledcomponents)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,react,mysql,mongodb,git)](https://skillicons.dev)
 
 </div>  
 
