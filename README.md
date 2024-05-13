@@ -13,13 +13,13 @@
   
   💻 Atualmente me aperfeiçoando em Java e Spring 📚
 
-  🥰 Amo arte, pintura, e design no geral 🤩
+  🥰 Amo arte, Pintura, e Design no geral 🤩
 
-  😤 Sou um cara bem neurótico com as minhas responsabilidades🤯
+  😤 Sou um cara bem Tryhard com Responsabilidades🤯
 
-  🤔 Curioso, autodidata, e o louco das documentações 😅
+  🤔 Curioso, Autodidata, e o Louco das Documentações 😅
 
-  🎮 Amo jogar video game, principalmente RPG 💖
+  🎮 Amo jogar Video Game, principalmente RPG 💖
 
   <hr>
   
