@@ -15,9 +15,9 @@
 
   🥰 Amo arte, pintura, e design no geral 🤩
 
-  😤 Sou um cara bem neurótico com as minhas <br> responsabilidades, levo muito a sério 🤯
+  😤 Sou um cara bem neurótico com as minhas responsabilidades🤯
 
-  🤔 Gosto de estudar só aquilo que tenho interesse...<br> ainda bem que programação é uma delas kkkk 😅
+  🤔 Curioso, autodidata, e o louco das documentações 😅
 
   🎮 Amo jogar video game, principalmente RPG 💖
 
@@ -27,7 +27,7 @@
   
 <div>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,react,mysql,mongodb,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,react,mysql,mongodb,git,docker)](https://skillicons.dev)
 
 </div>  
 
